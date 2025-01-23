@@ -4,6 +4,10 @@ Basic clock with 33 hours in a day and 100 minutes in an hour
 
 Based on Arduino Nano, RTC DS3231 and TM1637 display
 
+## Why?
+
+I find that 24 hours a day and 60 minutes an hour is not enough for me
+
 ## Photo
 
 ![wadafak? 31:63? how](https://github.com/user-attachments/assets/a89acc04-eb0d-4510-b929-ec4cf6d1e0ef)
